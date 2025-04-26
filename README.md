@@ -1,4 +1,6 @@
 # python-practice
+name:Michael Rutto
+adm:190163
 ### 1. factorial_loop.py
 - **Description**: Calculates the factorial of a number using an iterative approach (for loop).
 - **Function**: `factorial_loop(n)`
